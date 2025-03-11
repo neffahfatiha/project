@@ -1,0 +1,31 @@
+table {
+    margin-top: -390px;
+    margin-left: 410px;
+}
+
+.col-sm-4 {
+    margin-top: 150px;
+}
+
+.btn-success,
+.btn-danger {
+    padding: 2.5px;
+}
+
+label {
+    display: inline;
+}
+
+button {
+    margin-left: 50px;
+    /* هذي تديلك مسافة بين2button */
+}
+
+.btn-lg {
+    padding: 0 3rem 0 3rem;
+}
+
+body {
+    min-height: 100vh;
+    background: url(../img/hero-bg.png) no-repeat;
+}
